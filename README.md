@@ -15,3 +15,6 @@ pip install -r requirements.txt
 <h1>Run:</h1> <br>
 <p>run this command in the console</p><br>
 python3 app.py
+
+<h2>Notes</h2>
+<p>You could find a Postman example collection in the root of this project</p>
